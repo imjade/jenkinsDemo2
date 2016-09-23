@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					070D7A4F1D921D5B009DF99E = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 293VM2BUQ6;
 					};
 					070D7A681D921D5B009DF99E = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -419,7 +420,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: yanfeng chen (T9423D3D3P)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: yanfeng chen (T9423D3D3P)";
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -433,7 +434,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: yanfeng chen (T9423D3D3P)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: yanfeng chen (T9423D3D3P)";
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

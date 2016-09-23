@@ -423,7 +423,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: yanfeng chen (T9423D3D3P)";
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yyft.JenkinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yyft.JenkinsDemo2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c297115c-bd7e-4110-bca0-100816b16b27";
 			};
@@ -437,7 +437,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: yanfeng chen (T9423D3D3P)";
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yyft.JenkinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yyft.JenkinsDemo2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c297115c-bd7e-4110-bca0-100816b16b27";
 			};
@@ -508,6 +508,7 @@
 				070D7A7F1D921D5B009DF99E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		070D7A801D921D5B009DF99E /* Build configuration list for PBXNativeTarget "JenkinsDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -516,6 +517,7 @@
 				070D7A821D921D5B009DF99E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		070D7A831D921D5B009DF99E /* Build configuration list for PBXNativeTarget "JenkinsDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +526,7 @@
 				070D7A851D921D5B009DF99E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
